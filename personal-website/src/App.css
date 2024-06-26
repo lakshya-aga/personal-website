@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.About-me {
+  padding: 20px;
+}
+
+.About-me-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.About-me-text {
+  max-width: 600px;
+  margin: 20px;
+  text-align: left;
+}
+
+.About-me h2 {
+  color: #282c34;
+}
+
+.About-me p {
+  color: #555;
+  line-height: 1.5;
+}
